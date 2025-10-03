@@ -56,15 +56,7 @@ The cleaned and modeled data was imported into Power BI, where interactive dashb
 - **Database:** PostgreSQL  
 - **ETL Architecture:** Medallion (Bronze, Silver, Gold)  
 - **BI Tool:** Microsoft Power BI  
-- **Data Enrichment:** External postcode/town/state dataset  
-
----
-
-## 🚀 How to Use
-1. Clone this repository.  
-2. Access the SQL scripts for Bronze → Silver → Gold transformations.  
-3. Connect Power BI to the PostgreSQL database using the provided fact and dimension views.  
-4. Refresh the model to generate interactive dashboards.  
+- **Data Enrichment:** External postcode/town/state dataset
 
 ---
 
