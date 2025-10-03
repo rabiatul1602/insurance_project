@@ -40,10 +40,9 @@ The dataset was cleaned, transformed, and structured before being connected to P
 ## 📈 Power BI Dashboard
 The cleaned and modeled data was imported into Power BI, where interactive dashboards were built to answer key business questions:
 
-- **Who buys insurance?** (by type, marital status, demographics)  
-- **Policy issuance trends** (time-series by product type).  
-- **Premium distribution** (modal premium by plan and type).  
-- **Affordability analysis** (income vs premium load percent).  
+- **Who buys insurance?** (purchasing behaviour by demographics)  
+- **Policy trends and premium** (premium pattern across plan type).  
+- **Affordability insights** (policy ownership across state).  
 
 ---
 
